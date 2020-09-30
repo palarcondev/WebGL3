@@ -1,142 +1,92 @@
 
 id: 1
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 2
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 3
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 4
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 5
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 6
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 7
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 8
 name: Prueba 1
 logo: https://i.ibb.co/fvssDsR/logo2.png
-link: NA
+link: null
 
 id: 9
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 10
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 11
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 12
 name: Prueba 2
 logo: https://i.ibb.co/P9z6H8C/logo1.png
-link: NA
+link: null
 
 id: 13
 name: Prueba 3
 logo: https://i.ibb.co/yVLG1mS/logo3.png
-link: NA
+link: null
 
 id: 14
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 15
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 16
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 17
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 18
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 19
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 20
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 21
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 22
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 23
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 24
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 25
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 26
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 27
-name: NA
-logo: NA
-link: NA
+name: null
 
 id: 28
-name: NA
-logo: NA
-link: NA
+name: null
 
 
