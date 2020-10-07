@@ -1,18 +1,9 @@
 
-id: 13
-name: Prueba 3
-logo: https://i.ibb.co/yVLG1mS/logo3.png
-link: null
-
-id: 8
-name: Prueba 1
-link: null
-logo: https://i.ibb.co/fvssDsR/logo2.png
-
-id: 12
-logo: https://i.ibb.co/P9z6H8C/logo1.png
-link: null
-name: Prueba 2
+id: 14
+name: The Rotten Giftstore
+logo: https://freak33.com/images/imagenes/imagen2020_09_29_22_42_36logo-tienda-en-linea.png
+link: https://www.freak33.com/vazhar/tienda.php?tienda=-MIQat28oziMWJONvQon
+saludo: Bienvenido a The Rotten Giftstore!!! Es un placer atenderte :D
 
 
 
