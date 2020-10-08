@@ -1,0 +1,6 @@
+
+id: 14
+name: The Rotten Giftstore
+logo: https://freak33.com/images/imagenes/imagen2020_09_29_22_42_36logo-tienda-en-linea.png
+link: https://www.freak33.com/vazhar/tienda.php?tienda=-MIQat28oziMWJONvQon
+saludo: Bienvenido a The Rotten Giftstore!!! Es un placer atenderte :D
